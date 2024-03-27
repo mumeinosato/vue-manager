@@ -2,7 +2,7 @@
   "name": "vue-manager",
   "private": true,
   "version": "0.0.1",
-  "author": "Your Name",
+  "author": "mumeinosato",
   "main": "dist/electron/main/main.js",
   "scripts": {
     "vite:dev": "vite",
